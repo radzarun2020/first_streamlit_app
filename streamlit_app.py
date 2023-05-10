@@ -38,7 +38,7 @@ streamlit.stop()
 
 
 #my_cur = my_cnx.cursor()
-my_cur.execute("SELECT * from fruit_load_list")
+#my_cur.execute("SELECT * from fruit_load_list")
 
 streamlit.header("The fruit load list contains:")
 #Snowflake-related functions
